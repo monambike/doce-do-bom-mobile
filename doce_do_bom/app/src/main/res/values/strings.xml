@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Doce do Bom</string>
+
+    <string-array name="filtro">
+        <item>Nome Crescente</item>
+        <item>Nome Descrescente</item>
+        <item>Maior Preco</item>
+        <item>Menor Preco</item>
+        <item>Favoritos</item>
+        <item>Disponíveis</item>
+    </string-array>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="sobreDocedoBom">Os bolos e doces são elaborados à base de pão de ló, matéria-prima de primeira qualidade e frutas frescas.
+        O cliente pode encomendar o bolo inteiro, ou degustar na própria loja, que também trabalha com o sistema de fatias.
+        A qualidade dos nossos ingredientes é um dos pré-requisitos para a produção de nossos doces gourmet.
+        Porém, com a mudança de hábitos alimentares do público, nós atentos inovando trazendo opções mais saudáveis e pensadas para quem possui algum tipo de intolerância alimentar.
+        Apesar de ser um segmento ainda em crescimento, nosso estabelecimento produz doces ditos “saudáveis”, sem açúcar, lactose ou glúten.
+    </string>
+    <string name="sobreAtomic">A empresa AtomicXP foi fundada no ano de 2015 e busca atender outras empresas criando softwares de acordo com suas necessidades.
+        A AtomicXP conta com diversas equipes de programadores sendo a equipe “Team AtomicXP” responsável por atender o pedido da doceria Doce do Bom, que está se iniciando no ano de 2019 como um novo estabelecimento. .</string>
+</resources>

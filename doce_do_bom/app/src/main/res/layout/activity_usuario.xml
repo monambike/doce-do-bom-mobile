@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorMarrom_Claro">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/app_bar_main"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp">
+
+        <LinearLayout
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_margin="20dp"
+            android:background="@drawable/background_05"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp">
+            <ImageButton
+                android:id="@+id/usu_imgPerfil"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/icon_13"
+                android:layout_gravity="center"
+                android:layout_margin="8dp"
+                android:clickable="false"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="20dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="NOME"/>
+
+            <EditText
+                android:id="@+id/usu_ediNome"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:padding="10dp"
+                android:hint="Nome"
+                android:text="(Nome)"
+                android:inputType="textPersonName"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="EMAIL"/>
+
+            <EditText
+                android:id="@+id/usu_ediEmail"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:padding="10dp"
+                android:hint="Email"
+                android:text="(Email)"
+                android:inputType="textEmailAddress"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="SENHA"/>
+
+            <EditText
+                android:id="@+id/usu_ediSenha"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:padding="10dp"
+                android:hint="Senha"
+                android:text="(Senha)"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_marginTop="40dp"
+        android:gravity="bottom">
+        <Button
+            android:id="@+id/usu_btnEditar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Editar"
+            android:layout_weight="1"
+            android:textSize="10pt"
+            android:padding="20dp"
+            android:background="@drawable/background_03"
+            android:layout_margin="10dp"/>
+        <Button
+            android:id="@+id/usu_btnExcluir"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Excluir"
+            android:layout_weight="1"
+            android:textSize="10pt"
+            android:padding="20dp"
+            android:background="@drawable/background_03"
+            android:layout_margin="10dp"/>
+    </LinearLayout>
+</LinearLayout>
