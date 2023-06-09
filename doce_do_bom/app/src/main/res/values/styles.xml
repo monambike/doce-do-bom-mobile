@@ -1,5 +1,0 @@
-<resources>
-    <style name="AppCompat.TelaCheia" parent="Theme.AppCompat.NoActionBar">
-        <item name="android:windowFullscreen">true</item>
-    </style>
-</resources>
