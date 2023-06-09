@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Produto"
+    android:orientation="vertical"
+    android:background="@drawable/background_10">
+
+    <include
+        layout="@layout/app_bar_main"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_margin="20dp"
+            android:background="@drawable/background_05"
+            android:layout_gravity="center">
+
+            <ImageButton
+                android:id="@+id/usu_imgProduto"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/icon_13"
+                android:layout_margin="8dp"
+                android:layout_gravity="center"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:layout_marginRight="20dp"
+            android:padding="20dp"
+            android:background="@drawable/background_05">
+
+            <TextView
+                android:id="@+id/pro_txtDisponibilidade"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="INDISPONÍVEL"
+                android:textSize="5pt"
+                android:textAlignment="center"
+                android:textColor="@color/colorPreto"/>
+                <!--Verde: #199E23 Vermelho: #C41B1B-->
+
+            <TextView
+                android:id="@+id/pro_txtPreco"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="PREÇO"
+                android:textColor="@color/colorPreto"
+                android:textSize="10pt"
+                android:layout_marginTop="10dp"/>
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@color/colorMarrom_Claro"
+        android:layout_marginTop="20dp"
+        android:padding="30dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Descrição completa:"
+            android:textAlignment="center"
+            android:textColor="@color/colorPreto"
+            android:background="@color/colorVermelho_Claro"
+            android:textAllCaps="true"
+            android:padding="20dp"/>
+
+        <com.codesgood.views.JustifiedTextView
+            android:id="@+id/pro_txtDescricao"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="(Texto da descrição)\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na"
+            android:background="@color/colorCinza"
+            android:textColor="@color/colorPreto"
+            android:padding="20dp"
+            android:scrollbars="vertical"/>
+    </LinearLayout>
+</LinearLayout>
