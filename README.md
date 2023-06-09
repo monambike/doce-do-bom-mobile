@@ -4,9 +4,12 @@
 App developed at SENAI institution. This mobile application is designed for an imaginary sweet shop and built using Kotlin. The main purpose was for users check at real time products availability on the store.
 
 You could:
-:ok_person: Register users and employees to log into the system
-:ok_person: Employees could see and manage products for users
-:ok_person: User could be  able to check their availability and favorite them
+
+:pencil: Register users and employees to log into the system
+
+:spiral_notepad: Employees could see and manage products for users
+
+:star: User could be  able to check their availability and favorite them
 
 # Images
 
