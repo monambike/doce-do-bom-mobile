@@ -1,7 +1,6 @@
 # Doce do Bom :cupcake:
-*(Project made in 2019)*
 
-App developed at SENAI institution. This mobile application is designed for an imaginary sweet shop and built using Kotlin. The main purpose was for users check at real time products availability on the store.
+App developed at SENAI institution. This mobile application is designed for an imaginary sweet shop and built using Kotlin. The main purpose was for users check at real time products availability on the store. This project was made in 2019.
 
 You could:
 
