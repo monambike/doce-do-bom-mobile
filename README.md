@@ -14,31 +14,41 @@ You could:
 # Images
 
 ## Login and Sign-Up
-![Screenshot_20230609_141107](https://github.com/monambike/doce-do-bom-mobile/assets/35270174/64c836d5-2654-4b86-aa5c-66ebf9f38445)
-![Screenshot_20230609_142241](https://github.com/monambike/doce-do-bom-mobile/assets/35270174/5cbb3f7e-7d05-445e-8a42-809f8a56cf37)
+
+<img src="https://github.com/monambike/doce-do-bom-mobile/assets/35270174/64c836d5-2654-4b86-aa5c-66ebf9f38445" width="400">
+<img src="https://github.com/monambike/doce-do-bom-mobile/assets/35270174/5cbb3f7e-7d05-445e-8a42-809f8a56cf37" width="400">
 
 ## Products
 
-### Register
+### New Product
 
-![Captura de tela 2023-06-09 143403](https://github.com/monambike/doce-do-bom-mobile/assets/35270174/520875b6-b55e-4c77-a8df-5b37e60819ec)
+<img src="https://github.com/monambike/doce-do-bom-mobile/assets/35270174/520875b6-b55e-4c77-a8df-5b37e60819ec" width="400">
 
-### Visualization
+### Product View
 
-![Captura de tela 2023-06-09 143322](https://github.com/monambike/doce-do-bom-mobile/assets/35270174/5b3891db-265e-4366-a41e-f3d984621b27)
-![Captura de tela 2023-06-09 143302](https://github.com/monambike/doce-do-bom-mobile/assets/35270174/7e55dccf-fe3c-4c01-8e02-18f1f9b766b8)
+<img src="https://github.com/monambike/doce-do-bom-mobile/assets/35270174/5b3891db-265e-4366-a41e-f3d984621b27" width="400">
+<img src="https://github.com/monambike/doce-do-bom-mobile/assets/35270174/7e55dccf-fe3c-4c01-8e02-18f1f9b766b8" width="400">
 
-### About Us Screen
+## About Us Screen
 
-![Captura de tela 2023-06-09 143338](https://github.com/monambike/doce-do-bom-mobile/assets/35270174/7795ebf5-45ea-4c03-be12-db8aaf6fd8b3)
+<img src="https://github.com/monambike/doce-do-bom-mobile/assets/35270174/7795ebf5-45ea-4c03-be12-db8aaf6fd8b3" width="400">
 
-## Splash Screen
+## Splash Screens
 
-![Screenshot_20230609_144836](https://github.com/monambike/doce-do-bom-mobile/assets/35270174/a4ef956a-4950-40a8-87e9-4463949637a3)
-![Screenshot_20230609_141924](https://github.com/monambike/doce-do-bom-mobile/assets/35270174/5f3a5f92-5f30-4840-8a4a-f6de99622455)
-![Screenshot_20230609_144233](https://github.com/monambike/doce-do-bom-mobile/assets/35270174/d0eef6b6-bd83-4267-b838-d84f60dc94a7)
+<img src="https://github.com/monambike/doce-do-bom-mobile/assets/35270174/a4ef956a-4950-40a8-87e9-4463949637a3" width="400">
+<br>
+<img src="https://github.com/monambike/doce-do-bom-mobile/assets/35270174/5f3a5f92-5f30-4840-8a4a-f6de99622455" width="400">
+<br>
+<img src="https://github.com/monambike/doce-do-bom-mobile/assets/35270174/d0eef6b6-bd83-4267-b838-d84f60dc94a7" width="400">
 
 ## Application Icon
 
-![Captura de tela 2023-06-09 141407](https://github.com/monambike/doce-do-bom-mobile/assets/35270174/45db1077-cd17-4c19-81ac-555a03dae602)
+<img src="https://github.com/monambike/doce-do-bom-mobile/assets/35270174/45db1077-cd17-4c19-81ac-555a03dae602" width="200">
 
+# Contact
+
+You can find me on likedin by here [linkedin.com/in/monambike/](https://www.linkedin.com/in/monambike/). If you want to see videos about my work you can check my YouTube channel [youtube.com/@monambike_portfolio](https://www.youtube.com/@monambike_portfolio) and if you want to see my artworks you can check at my instagram [instagram.com/monambike_portfolio](https://www.instagram.com/monambike_portfolio).
+
+# License
+
+The license for this repository is available [here](LICENSE). Please refer to the provided link for detailed information regarding the terms and conditions governing the use of this project.
