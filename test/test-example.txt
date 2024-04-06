@@ -1,0 +1,6 @@
+
+INSERT INTO produto VALUES(1,1,"Macaron",10,8.20,"ESSE PRODUTO É CARO E GOSTOSO");
+
+INSERT INTO produto VALUES(2,1,"Bolo",2,24.99,"ESSE PRODUTO É GOSTOSO");
+
+INSERT INTO funcionario VALUES(1,1,1,"A","A","A","A","A","A","A","A","A","A","A","A","A","A","A","A","A","A","A");
